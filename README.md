@@ -1,2 +1,3 @@
-# MineCTL
-Simple Minecraft server management (start/stop, get state) script
+# MineCtl
+Wroten using BASH scripting language.\n
+Dependencies: bash, tmux, java\n
